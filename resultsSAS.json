@@ -1,0 +1,6 @@
+{ "type" : "FeatureCollection" , "features" : [   { "type": "Feature" 
+ , "geometry" :   null , "properties": { "cropcode" : "2645","cropname" : "Notenbomen","grondgebruik" : "Bouwland","cropid" : 2}}, { "type": "Feature" 
+ , "geometry" :   null , "properties": { "cropcode" : "1908","cropname" : "Braak, zwarte- met ontheffing","grondgebruik" : "Braakland","cropid" : 3}}, { "type": "Feature" 
+ , "geometry" :   null , "properties": { "cropcode" : "3718","cropname" : "Grasland, natuurlijk","grondgebruik" : "Grasland","cropid" : 4}}, { "type": "Feature" 
+ , "geometry" :   null , "properties": { "cropcode" : "859","cropname" : "Aardappelen, zetmeel geleverd aan buitenland","grondgebruik" : "Bouwland","cropid" : 5}}, { "type": "Feature" 
+ , "geometry" :   null , "properties": { "cropcode" : "3792","cropname" : "Aardappelen, consumptie op zand/veengrond","grondgebruik" : "Bouwland","cropid" : 6}}]}
